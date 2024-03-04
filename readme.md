@@ -25,8 +25,8 @@ The data for this analysis is sourced from Eniac's discount database, covering t
 
 ## Folder Structure
 
-- `/src`: Contains Python scripts for data cleaning and analysis.
-- `/docs`: Project csvs, and presentation.
+- [/src](https://github.com/HannePruefer/Data_Cleaning/tree/main/src): Contains Python scripts for data cleaning and analysis.
+- [/docs](https://github.com/HannePruefer/Data_Cleaning/tree/main/data): Project csvs, and presentation.
 
 ## Analysis Summary
 
